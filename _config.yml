@@ -24,8 +24,10 @@ url: "http://vjsantojaca.github.io"
 avatar: "/img/avatar.jpg"
 twitter_username: vctrsntj_ham
 github_username:  vjsantojaca
-linkedin_username: "in/victorsantojacallejo"
-
+linkedin_username: victorsantojacallejo
+linkedin_user : vjsantojaca
+stackoverflow_username : "4708439/víctor-santoja"
+stackoverflow_user : vjsantojaca
 
 # Build settings
 markdown: kramdown
