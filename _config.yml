@@ -18,16 +18,16 @@ name: Víctor Santoja Callejo
 email: victorsantoja@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I love the blue color and the strongly-typed programming language.
-  "No hay ñapa sin ingenio"
+slogan: "No hay ñapa sin ingenio"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vjsantojaca.github.io"
 avatar: "/img/avatar.jpg"
 twitter_username: vctrsntj_ham
 github_username:  vjsantojaca
 linkedin_username: victorsantojacallejo
-linkedin_user : vjsantojaca
-stackoverflow_username : "4708439/víctor-santoja"
-stackoverflow_user : vjsantojaca
+linkedin_user: vjsantojaca
+stackoverflow_username: "4708439/víctor-santoja"
+stackoverflow_user: vjsantojaca
 
 # Build settings
 markdown: kramdown
