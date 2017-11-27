@@ -22,6 +22,7 @@ slogan: "No hay ñapa sin ingenio"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vjsantojaca.github.io"
 avatar: "/img/avatar.jpg"
+avatar8bits: "/img/avatarFace8bits.png"
 twitter_username: vctrsntj_ham
 github_username:  vjsantojaca
 linkedin_username: victorsantojacallejo
