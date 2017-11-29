@@ -10,18 +10,20 @@
         <div style="float:left; width:25%; margin-top:2%; padding-right:3%">
              <img src={{ site.avatar8bits }} alt="avatar"/>
         </div>
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
+        <div style="margin-top:6%">
+            <ul class="contact-list">
+              <li>
+                {% if site.author %}
+                  {{ site.author | escape }}
+                {% else %}
+                  {{ site.title | escape }}
+                {% endif %}
+                </li>
+                {% if site.email %}
+                <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                {% endif %}
+            </ul>
+        </div>
       </div>
 
       <div class="footer-col footer-col-2">
