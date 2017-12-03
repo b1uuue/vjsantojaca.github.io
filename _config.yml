@@ -30,6 +30,8 @@ linkedin_user: vjsantojaca
 stackoverflow_username: "4708439/víctor-santoja"
 stackoverflow_user: vjsantojaca
 
+google_analytics: UA-110455775-1
+
 # Build settings
 markdown: kramdown
 theme: minima
