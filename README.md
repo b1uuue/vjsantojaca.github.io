@@ -1,2 +1,1 @@
-# vjsantojaca.github.io
-A github page
+# How to create a personal page with Github and Jekyll
