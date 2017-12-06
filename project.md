@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## :rocket::rocket: Projects at Víctor Santoja :rocket::rocket:
+## :rocket::rocket: Projects from Víctor Santoja :rocket::rocket:
 ### Android <img src="/img/emoji/android.png" width="20" height="20" alt="android"/> Firmware
 * Marshmallow <img src="/img/emoji/mashmallow.png" width="20" height="20" alt="mashmallow"/> , Nougat <img src="/img/emoji/nougat.png" width="20" height="20" alt="nougat"/> and Oreo <img src="/img/emoji/oreo.png" width="20" height="20" alt="oreo"/> updates for all [**BQ**](https://www.bq.com/es/) devices.
   * Radio Interface Layer Issues.
